@@ -1,0 +1,92 @@
+/*CSS reset settings here*/
+*{
+    margin: 0px;
+    padding: 4px;
+   }
+   #wrapper{
+    width: 970px;
+    height: auto;
+    background-color: #1b345d;
+    margin: 20px auto;
+    padding: 10px;
+    overflow: hidden;
+   
+   }
+   #header{
+    /* min-height: 113px; */
+    background-color: #cf3036;
+    margin: 0% 0% 2%;
+    padding: 10px;
+    border-radius: 15px;
+   }
+   #navigation{
+    /* min-height: 300px; */
+    width: auto;
+    background-color: #2a7d8c;
+    align-self: left;
+    vertical-align: top;
+    display: inline-block;
+    border-radius: 15px;
+    padding: 15px;
+
+   }
+   #main_content{
+    min-height: auto;
+    width: 710px;
+    background-color: #0e1822;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0% 0% 2% 2%;
+    padding: 12px 13px;
+    border-radius: 15px;
+
+   }
+   .subcontents{
+    min-height: 150px;
+    width: 155px;
+    background-color: yellow;
+    display: inline-block;
+    margin: 0px 10px 0px 0px;
+    border-radius: 15px;
+
+   }
+   #footer{
+    /* min-height: 120px; */
+    background-color: #5d6673;
+    border-radius: 15px;
+    padding: 15px;
+   }
+   
+   a{
+    color: #58d8e6;
+   }
+   
+   ul{
+       padding: 0px 0px 0px 25px;
+       color:#c2d6ec;
+
+   }
+   h1{
+    color:#c2d6ec;
+}
+   h2{
+    color:#c2d6ec;
+}
+
+   #navigation ul{
+    /* line-height: 70%; */
+    margin: 0px;
+    padding: 0px 0px 0px 25px;
+    color:#c2d6ec;
+   }
+   #navigation ul li{
+       margin: -7px -7px -5px;
+   }
+
+   p{
+    color:#c2d6ec;
+   }
+   
+    span{
+        color:#5e6ee7;
+    }   
